@@ -1,8 +1,5 @@
 # Deep_learning_Projects
 In this repository, there are 25+projects  of deep learning with detail readme and visualizations and accuracy .
-# Deep Learning Projects
-
-A collection of deep learning projects built and trained using Python and Google Colab.
 
 ## Projects
 
